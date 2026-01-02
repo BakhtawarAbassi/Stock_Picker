@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StockPicker Crew
 
 Welcome to the StockPicker Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
@@ -52,3 +53,7 @@ For support, questions, or feedback regarding the StockPicker Crew or crewAI.
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
+=======
+# Stock_Picker
+This project presents the development of an intelligent Stock Picker System built using the CrewAI multi-agent framework. The system automates the end-to-end process of identifying trending companies, researching their financial standing, evaluating investment potential, and recommending the most suitable company for investment.
+>>>>>>> 0e7dac4cc99e88041148aded0dde23771baa35be
